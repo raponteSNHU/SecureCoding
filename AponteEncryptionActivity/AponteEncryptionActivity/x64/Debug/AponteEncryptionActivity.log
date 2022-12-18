@@ -1,0 +1,3 @@
+﻿  Encryption.cpp
+C:\Users\fpwf5\Desktop\SNHU\Secure Coding\AponteEncryptionActivity\AponteEncryptionActivity\Encryption.cpp(61): warning C4715: 'read_file': not all control paths return a value
+  AponteEncryptionActivity.vcxproj -> C:\Users\fpwf5\Desktop\SNHU\Secure Coding\AponteEncryptionActivity\x64\Debug\AponteEncryptionActivity.exe
