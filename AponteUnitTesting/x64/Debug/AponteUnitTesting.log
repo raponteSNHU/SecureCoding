@@ -1,0 +1,6 @@
+﻿  test.cpp
+C:\Users\fpwf5\Desktop\SNHU\Secure Coding\AponteUnitTesting\AponteUnitTesting\test.cpp(17,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\fpwf5\Desktop\SNHU\Secure Coding\AponteUnitTesting\AponteUnitTesting\test.cpp(341,5): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\fpwf5\Desktop\SNHU\Secure Coding\AponteUnitTesting\AponteUnitTesting\test.cpp(343,5): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\fpwf5\Desktop\SNHU\Secure Coding\AponteUnitTesting\AponteUnitTesting\test.cpp(377,5): warning C4834: discarding return value of function with 'nodiscard' attribute
+  AponteUnitTesting.vcxproj -> C:\Users\fpwf5\Desktop\SNHU\Secure Coding\AponteUnitTesting\x64\Debug\AponteUnitTesting.exe
